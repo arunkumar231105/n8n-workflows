@@ -10,12 +10,13 @@ n8n-workflows/
 │ ├── workflow.json
 │ ├── workflow.png
 │ └── README.md
+│
 ├── Another-workflow/
 │ ├── workflow.json
 │ ├── workflow.png
 │ └── README.md
-└── README.md
-
+│
+└── README.md # Main repo README
 
 ## 🛠 How to Use
 1. Clone this repository:
