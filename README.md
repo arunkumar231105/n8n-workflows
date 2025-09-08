@@ -6,17 +6,29 @@ Each workflow is stored as a JSON file along with its corresponding diagram imag
 ## 📂 Repository Structure
 
 n8n-workflows/
+
 ├── LinkedIn-Content-Automation/
+
 │ ├── workflow.json
+
 │ ├── workflow.png
+
 │ └── README.md
+
 │
-├── Another-workflow/
+
+├── Another-Workflow/
+
 │ ├── workflow.json
+
 │ ├── workflow.png
+
 │ └── README.md
+
 │
+
 └── README.md # Main repo README
+
 
 ## 🛠 How to Use
 1. Clone this repository:
